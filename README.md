@@ -15,9 +15,9 @@
 - SQLite Database
 
 # Preview
- <img alt = " " src="images/device-2022-03-10-150642.png" width=25% height=25%>   <img src="images/device-2022-03-10-150642.png" width=25% height=25%>
-<img src="images/device-2022-03-10-150642.png" width=50% height=50%> <img src="images/device-2022-03-10-150642.png" width=25% height=25%>
-<img src="images/device-2022-03-10-150642.png" width=50% height=50%>
+ <img alt = " " src="images/device-2022-03-10-150642.png" width=25% height=25%>   <img src="images/device-2022-03-10-150711.png" width=25% height=25%>
+<img src="images/device-2022-03-10-150722.png" width=25% height=25%>              <img src="images/device-2022-03-10-150745.png " width=25% height=25%>
+<img src="images/device-2022-03-10-150755.png" width=25% height=25%>              <img src="images/device-2022-03-10-150835.png" width=25% height=25%>
 
 
 
