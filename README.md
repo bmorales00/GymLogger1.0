@@ -10,10 +10,9 @@
 - Adjustmants of both weights and repetitions
        
 # Tools used
+- IntelliJ IDEA/ Android Studio
+- Android SDK 31.0.0 
 - SQLite Database
-- IntelliJ IDEA/ Android Studio 
-- Android version 4.0 or later
-- Android SDK 31.0.0
 
 # Preview
 
